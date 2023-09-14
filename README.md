@@ -3,6 +3,7 @@ Soal pada praktiikum kali ini adalah membuat database sesuai dengan table yang s
 Berikut adalah tabel dan gambar database yang sudah saya buat
 # Nasabah
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/a59d4774-e3a7-4168-b191-f934b4a61677)
+Tabel diatas yang saya buat adalah gambaran tentang database yang akan dibuat di sql. Terlihat bahwa ada beberapa kolom tabel dengan nama yang berbeda dan tipe yang digunakan berbeda, seperti integer, varchar. Dengan primary key id_nasabah yang memiliki nilai integer
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/3f1d0b8e-9ea9-4712-a3d1-824c085430ec)
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/a46451df-e37e-49e2-8740-586f897b9f39)
 
