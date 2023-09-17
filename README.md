@@ -5,11 +5,11 @@ Berikut adalah tabel dan gambar database yang sudah saya buat
 # Nasabah
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/a59d4774-e3a7-4168-b191-f934b4a61677)
 
-Tabel diatas yang saya buat adalah gambaran tentang database yang akan dibuat di sql. Terlihat bahwa ada beberapa kolom tabel dengan nama yang berbeda dan tipe yang digunakan berbeda, seperti integer, varchar. Dengan primary key id_nasabah yang memiliki nilai integer
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/3f1d0b8e-9ea9-4712-a3d1-824c085430ec)
+Tabel diatas yang saya buat adalah gambaran tentang database yang akan dibuat di sql. Terlihat bahwa ada beberapa kolom tabel dengan nama yang berbeda dan tipe yang digunakan berbeda, seperti integer, varchar dan enum. Dengan primary key id_nasabah yang memiliki nilai integer
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/a2ace026-4acb-44f8-8317-353e98ffb289)
 
 Ini adalah gambar dari database yang saya buat pada phpmyadmin, terlihat bahwa pada id_nasabah yang merupakan primary key terdapat simbol kunci kuning yang melambangkan primary key.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/a46451df-e37e-49e2-8740-586f897b9f39)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/1b8692f0-b432-447b-a369-b39a7e5e91cb)
 
 Pada tabel yang sudah saya buat, saya menambahkan sebanyak dua data nasabah, yaitu Arief Setiawan dan Budi. Masing masing data memliki isi data yang berbeda satu dengan yang lain.
 
@@ -17,10 +17,10 @@ Pada tabel yang sudah saya buat, saya menambahkan sebanyak dua data nasabah, yai
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/285fd96f-4028-4d79-9ba5-98268e613d64)
 
 Pada tabel diatas saya membuat primary key yang bernama no_rekening dan karena saya ingin membuat antara entitas rekening dan entitas nasabah saling berhubungan, maka disini saya memasukkan foreign key dari entitas nasabah, yaitu id_nasabah.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/d705f1d7-faba-44ee-949b-3326bbb863e0)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/676281f4-ba55-4c8f-83dc-2d1da7debf85)
 
 Berdasarkan tabel yang sudah saya buat, kemudian saya membuat database sesuai pada tabel, seperti terlihat pada gambar diatas. Pada gambar database diatas dapat dilihat bahwa foreign key yang saya masukkan memiliki simbol kunci abu-abu yang menunjukan bahwa id_nasabah adalah foreign key.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/fa8ce8f2-eab1-4118-b050-fc5f805dd4a4)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/6116b276-942b-4637-ba2f-267be313ec6e)
 
 Kemudian setelah membuat database, dilanjutkan saya mengisi database dengan dua data yang berbeda.
 
