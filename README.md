@@ -39,9 +39,9 @@ Setelah membuat database yang sesuai dengan tabel, langkah selanjutnya adalah me
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/4010fb28-0407-4f45-81b0-20ff3187d803)
 
 Pada gambar diatas adalah konsep yang akan digunakan pada database, disini saya membuat no_transaksi sebagai primary key, dan membuat no_rekening yang dari entitas rekening sebagai foreign key.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/24cea10e-8aaf-4941-a38e-7c1c9019600a)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/3c8e2934-274e-41b4-8b51-4927df8d8532)
 
 Kemudian berdasarkan tabel yang dibuat sebelumnya dibuatlah database seperti gambar diatas ini. Dapat dilihat bahwa yang menjadi primary key adalah no_transaksi dengan simbol kunci kuning, dan no_rekening sebagai foreign key dengan simbol kunci abu-abu.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/6f3b6e06-f778-41b3-a193-45a03c2c334d)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/24cea10e-8aaf-4941-a38e-7c1c9019600a)
 
 Setelah membuat database saya mengisi semua value yang ada, dengan 2 data transaksi.
