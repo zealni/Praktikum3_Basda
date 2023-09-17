@@ -28,10 +28,10 @@ Kemudian setelah membuat database, dilanjutkan saya mengisi database dengan dua 
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/ebe552ff-c560-48c0-b720-307942d129af)
 
 Seperti yang bisa dilihat pada gambar diatas, pada tabel ini yang menjadi primary key adalah kode_cabang. Untuk tabel ini saya tidak menggunakan foreign key, karena tidak ada entitas yang ingin saya sambungkan, atau hubungkan.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/cb4bb39e-0d31-4c79-80d1-783e016f73df)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/1964821c-d73b-480c-be32-fd1407dc75e7)
 
 Gambar diatas adalah database yang saya buat berdasarkan tabel yang sudah dibuat terlebih dulu sebelumnya. Pada database dapat dilihat bahwa yang menjadi primary key adalah kode_cabang.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/68432628-9f7f-410a-95e0-6ec901003338)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/2c6dea0e-630e-4d91-a0d4-93332fd8b6c5)
 
 Setelah membuat database yang sesuai dengan tabel, langkah selanjutnya adalah mengisi database yang sudah dibuat. Disini saya memasukkan 2 data, yaitu cabang yang berbeda.
 
@@ -39,7 +39,7 @@ Setelah membuat database yang sesuai dengan tabel, langkah selanjutnya adalah me
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/4010fb28-0407-4f45-81b0-20ff3187d803)
 
 Pada gambar diatas adalah konsep yang akan digunakan pada database, disini saya membuat no_transaksi sebagai primary key, dan membuat no_rekening yang dari entitas rekening sebagai foreign key.
-![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/02eb76b4-d656-4675-93a0-468a420d32ba)
+![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/24cea10e-8aaf-4941-a38e-7c1c9019600a)
 
 Kemudian berdasarkan tabel yang dibuat sebelumnya dibuatlah database seperti gambar diatas ini. Dapat dilihat bahwa yang menjadi primary key adalah no_transaksi dengan simbol kunci kuning, dan no_rekening sebagai foreign key dengan simbol kunci abu-abu.
 ![image](https://github.com/zealni/Praktikum3_Basda/assets/126482143/6f3b6e06-f778-41b3-a193-45a03c2c334d)
