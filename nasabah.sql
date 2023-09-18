@@ -1,4 +1,4 @@
-CREATE TABLE data_nasabah (
+CREATE TABLE nasabah (
     id_nasabah INT PRIMARY KEY,
     alamat_nasabah VARCHAR(50),
     nama_nasabah VARCHAR(50),
